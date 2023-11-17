@@ -1,0 +1,2 @@
+dev:
+	slu serve-files
